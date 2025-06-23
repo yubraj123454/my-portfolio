@@ -1,0 +1,78 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+body{
+  background-color:black;
+}
+.header{
+
+ color: white;
+
+
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    margin-top: 10px;
+
+}
+.header h2{
+font-family: Corbel Light;
+color: aqua;
+margin-left:60px;
+}
+.navbar{
+    margin-right: 4px;
+}
+
+.navbar a{
+    
+text-decoration: none;
+margin-left: 25px;
+color: white;
+font-family:Corbel Light ;
+}
+.navbar a:hover{
+color: aqua;
+}
+main{
+    margin-top: 100px;
+    margin-left: 200px;
+    color: white;
+}
+.hi{
+    display: flex;
+    justify-content: space-between;
+   
+
+}
+.hi h3{
+font-family: Calibri;
+font-size: x-large;
+padding-top: 40px;
+}
+.hi h1{
+padding-bottom: 7px;
+font-family: Calibri;
+font-size: 40px;
+}
+.hi h4{
+    padding-bottom: 35px;
+    font-family: Calibri;
+    font-size: 25px;
+}
+.hi p{
+    font-family: Corbel Light;
+}
+img{
+    height: 300px;
+    margin-right: 200px;
+    width: auto;
+}
+#hoi{
+    align-items: center;
+}
+.color{
+    color: aqua;
+}
